@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoginCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_prompt">Please enter your credentials</string>
+    <string name="username">Username: </string>
+    <string name="password">Password:</string>
+    <string name="user_prompt">Enter username</string>
+    <string name="login_button">Login</string>
+    <string name="add_button">Add User</string>
+    <string name="logout_button">Logout</string>
+    <string name="result_msg">Hi ____! \nYou have logged in __ time(s)!</string>
+
+</resources>
